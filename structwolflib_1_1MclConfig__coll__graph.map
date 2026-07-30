@@ -1,0 +1,15 @@
+<map id="wolflib::MclConfig" name="wolflib::MclConfig">
+<area shape="rect" id="Node000001" title=" " alt="" coords="679,95,816,121"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="333,5,520,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="534,42,655,71,717,93,715,98,654,76,533,47"/>
+<area shape="rect" id="Node000003" href="$structwolflib_1_1DistanceSensorConfig.html" title=" " alt="" coords="5,13,220,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="234,23,333,23,333,28,234,28"/>
+<area shape="rect" id="Node000004" href="$structwolflib_1_1MclTuning.html" title=" " alt="" coords="357,70,496,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="510,87,679,100,678,105,509,92"/>
+<area shape="rect" id="Node000005" href="$structwolflib_1_1FusionConfig.html" title=" " alt="" coords="349,119,505,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="519,131,585,129,654,124,691,118,692,123,655,129,586,135,519,136"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="383,169,470,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="484,177,565,169,654,151,692,136,724,118,727,123,694,141,655,156,566,175,484,182"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="43,161,182,201"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="196,179,383,179,383,184,196,184"/>
+</map>

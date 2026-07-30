@@ -1,0 +1,88 @@
+var namespacewolflib =
+[
+    [ "Omniwheel", "namespacewolflib_1_1Omniwheel.html", [
+      [ "NEW_2", "namespacewolflib_1_1Omniwheel.html#af8bfd767aab960391bb1902d9c010315", null ],
+      [ "NEW_275", "namespacewolflib_1_1Omniwheel.html#a845bfa7950f4d717b0d86ae2b5963781", null ],
+      [ "NEW_325", "namespacewolflib_1_1Omniwheel.html#af2cde720212bd2b834cad17ac4e6b9d2", null ],
+      [ "NEW_4", "namespacewolflib_1_1Omniwheel.html#a8eae831d91f750c96e74efa404f45059", null ],
+      [ "OLD_275", "namespacewolflib_1_1Omniwheel.html#afa892498cb91be8ce4c303f4f65fec1b", null ],
+      [ "OLD_325", "namespacewolflib_1_1Omniwheel.html#a98d858757de5121eadf8ca38af44e911", null ],
+      [ "OLD_4", "namespacewolflib_1_1Omniwheel.html#a168d84b790dfbf9bbdd9705da4e09dfc", null ]
+    ] ],
+    [ "Chassis", "classwolflib_1_1Chassis.html", "classwolflib_1_1Chassis" ],
+    [ "ChassisConfig", "structwolflib_1_1ChassisConfig.html", "structwolflib_1_1ChassisConfig" ],
+    [ "ControllerSettings", "structwolflib_1_1ControllerSettings.html", "structwolflib_1_1ControllerSettings" ],
+    [ "DistanceSensorConfig", "structwolflib_1_1DistanceSensorConfig.html", "structwolflib_1_1DistanceSensorConfig" ],
+    [ "DriveCurve", "classwolflib_1_1DriveCurve.html", "classwolflib_1_1DriveCurve" ],
+    [ "Drivetrain", "structwolflib_1_1Drivetrain.html", "structwolflib_1_1Drivetrain" ],
+    [ "ExitCondition", "classwolflib_1_1ExitCondition.html", "classwolflib_1_1ExitCondition" ],
+    [ "ExpoDriveCurve", "classwolflib_1_1ExpoDriveCurve.html", "classwolflib_1_1ExpoDriveCurve" ],
+    [ "FieldConfig", "structwolflib_1_1FieldConfig.html", "structwolflib_1_1FieldConfig" ],
+    [ "FieldView", "classwolflib_1_1FieldView.html", "classwolflib_1_1FieldView" ],
+    [ "FusionConfig", "structwolflib_1_1FusionConfig.html", "structwolflib_1_1FusionConfig" ],
+    [ "MappingInfo", "structwolflib_1_1MappingInfo.html", "structwolflib_1_1MappingInfo" ],
+    [ "MclConfig", "structwolflib_1_1MclConfig.html", "structwolflib_1_1MclConfig" ],
+    [ "MclEstimate", "structwolflib_1_1MclEstimate.html", "structwolflib_1_1MclEstimate" ],
+    [ "MclTuning", "structwolflib_1_1MclTuning.html", "structwolflib_1_1MclTuning" ],
+    [ "MotionOptions", "structwolflib_1_1MotionOptions.html", "structwolflib_1_1MotionOptions" ],
+    [ "MoveToPointOptions", "structwolflib_1_1MoveToPointOptions.html", "structwolflib_1_1MoveToPointOptions" ],
+    [ "MoveToPoseOptions", "structwolflib_1_1MoveToPoseOptions.html", "structwolflib_1_1MoveToPoseOptions" ],
+    [ "OccupancyMap", "classwolflib_1_1OccupancyMap.html", "classwolflib_1_1OccupancyMap" ],
+    [ "OdometryDelta", "structwolflib_1_1OdometryDelta.html", "structwolflib_1_1OdometryDelta" ],
+    [ "OdometryStep", "structwolflib_1_1OdometryStep.html", "structwolflib_1_1OdometryStep" ],
+    [ "OdomSensors", "structwolflib_1_1OdomSensors.html", "structwolflib_1_1OdomSensors" ],
+    [ "Particle", "structwolflib_1_1Particle.html", "structwolflib_1_1Particle" ],
+    [ "ParticleFilter", "classwolflib_1_1ParticleFilter.html", "classwolflib_1_1ParticleFilter" ],
+    [ "PID", "classwolflib_1_1PID.html", "classwolflib_1_1PID" ],
+    [ "Pose", "structwolflib_1_1Pose.html", "structwolflib_1_1Pose" ],
+    [ "RangeObservation", "structwolflib_1_1RangeObservation.html", "structwolflib_1_1RangeObservation" ],
+    [ "Rect", "structwolflib_1_1Rect.html", "structwolflib_1_1Rect" ],
+    [ "RobotGeometry", "structwolflib_1_1RobotGeometry.html", "structwolflib_1_1RobotGeometry" ],
+    [ "Timer", "classwolflib_1_1Timer.html", "classwolflib_1_1Timer" ],
+    [ "TrackingWheel", "classwolflib_1_1TrackingWheel.html", "classwolflib_1_1TrackingWheel" ],
+    [ "TurnOptions", "structwolflib_1_1TurnOptions.html", "structwolflib_1_1TurnOptions" ],
+    [ "WheelDelta", "structwolflib_1_1WheelDelta.html", "structwolflib_1_1WheelDelta" ],
+    [ "AngularDirection", "namespacewolflib.html#ada6f5ffd9270d33aade9cb22cac8c69b", [
+      [ "Clockwise", "namespacewolflib.html#ada6f5ffd9270d33aade9cb22cac8c69baba360a794737bcc8657a5b6e870d7ba8", null ],
+      [ "Counterclockwise", "namespacewolflib.html#ada6f5ffd9270d33aade9cb22cac8c69ba2ce0103fdd01ba7831c54103c8a3bb3f", null ],
+      [ "Automatic", "namespacewolflib.html#ada6f5ffd9270d33aade9cb22cac8c69ba086247a9b57fde6eefee2a0c4752242d", null ]
+    ] ],
+    [ "DistanceConfidencePolicy", "namespacewolflib.html#ace43eea3944e0d88a0ba01b569ad3003", [
+      [ "Ignore", "namespacewolflib.html#ace43eea3944e0d88a0ba01b569ad3003afd038fc7f319e48f3115d92bf5bdbef9", null ],
+      [ "RequireMinimum", "namespacewolflib.html#ace43eea3944e0d88a0ba01b569ad3003ab79d24bb41b2eb90f1e70a06148113bf", null ],
+      [ "ScaleWeight", "namespacewolflib.html#ace43eea3944e0d88a0ba01b569ad3003aeb35990eab9bf27e96321b8a619129b3", null ]
+    ] ],
+    [ "DriveSide", "namespacewolflib.html#a545c218cb37831a2fc9289378e338dbb", [
+      [ "Left", "namespacewolflib.html#a545c218cb37831a2fc9289378e338dbba945d5e233cf7d6240f6b783b36a374ff", null ],
+      [ "Right", "namespacewolflib.html#a545c218cb37831a2fc9289378e338dbba92b09c7c48c520c3c55e497875da437c", null ]
+    ] ],
+    [ "MappingState", "namespacewolflib.html#a7135a871483896c514bb7cd8588fb1b1", [
+      [ "Idle", "namespacewolflib.html#a7135a871483896c514bb7cd8588fb1b1ae599161956d626eda4cb0a5ffb85271c", null ],
+      [ "Mapping", "namespacewolflib.html#a7135a871483896c514bb7cd8588fb1b1a0014f8b96d996135614c21355a053994", null ],
+      [ "Saving", "namespacewolflib.html#a7135a871483896c514bb7cd8588fb1b1a4e11db406c6c9f234fe8579cc9bc5ef6", null ],
+      [ "Ready", "namespacewolflib.html#a7135a871483896c514bb7cd8588fb1b1ae7d31fc0602fb2ede144d18cdffd816b", null ],
+      [ "Error", "namespacewolflib.html#a7135a871483896c514bb7cd8588fb1b1a902b0d55fddef6f8d651fe1035b7d4bd", null ]
+    ] ],
+    [ "MapStatus", "namespacewolflib.html#a06f08e48246164ad2e33a82927213500", [
+      [ "Ok", "namespacewolflib.html#a06f08e48246164ad2e33a82927213500aa60852f204ed8028c1c58808b746d115", null ],
+      [ "NotInitialized", "namespacewolflib.html#a06f08e48246164ad2e33a82927213500a9646ad3a1c3e708b4fa8b4b4270fbab6", null ],
+      [ "InvalidDimensions", "namespacewolflib.html#a06f08e48246164ad2e33a82927213500a38bf09f11b695b2c3ae5b36c4feeaba7", null ],
+      [ "OutOfBounds", "namespacewolflib.html#a06f08e48246164ad2e33a82927213500a46dc1018ac1d8fca7c2752a61ce2fd0f", null ],
+      [ "IoError", "namespacewolflib.html#a06f08e48246164ad2e33a82927213500af05cfcbf5123775f7c73e520a8d861e1", null ],
+      [ "InvalidFormat", "namespacewolflib.html#a06f08e48246164ad2e33a82927213500ade236a235b4e8ffc9141676624753b2d", null ],
+      [ "UnsupportedVersion", "namespacewolflib.html#a06f08e48246164ad2e33a82927213500a0f89bc98e9b12bdeda0604e57bdc0518", null ],
+      [ "ChecksumMismatch", "namespacewolflib.html#a06f08e48246164ad2e33a82927213500a23cd86e43512932a4bc975552c8d17fd", null ]
+    ] ],
+    [ "angleError", "namespacewolflib.html#a2c2ffb69d288efbda8f80986eff8274c", null ],
+    [ "average", "namespacewolflib.html#aa2d08b7c11404b5bde5fb7c00b746896", null ],
+    [ "clamp", "namespacewolflib.html#a9e5f97ebe711f032a7d51d5184f4d2e9", null ],
+    [ "degToRad", "namespacewolflib.html#a0dc8ddea4f4af5b48b2aa53e8f7b5b70", null ],
+    [ "ema", "namespacewolflib.html#aa38118ce838c4840ea21bfa03ec3d529", null ],
+    [ "integrateLocalDelta", "namespacewolflib.html#a07caf344b7d00b32fb8c4c2ac588351f", null ],
+    [ "integrateOdometry", "namespacewolflib.html#ac258d317fee6702978c0a08c89886ff1", null ],
+    [ "mapStatusString", "namespacewolflib.html#aa024a8331f280aa1d66d2f52185e46d1", null ],
+    [ "radToDeg", "namespacewolflib.html#af4981e72ea98cc918119b3f36e84c728", null ],
+    [ "slew", "namespacewolflib.html#a2f470b64b9e7d52b3fb4d3c48efb743f", null ],
+    [ "wrapDegrees", "namespacewolflib.html#a1a37aa3dd3d933ac74c8ecaa8343e766", null ],
+    [ "kPi", "namespacewolflib.html#a613abd76cba2a423b95374c4d4fb0209", null ]
+];

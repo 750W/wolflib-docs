@@ -1,0 +1,73 @@
+:root {
+	--wolf-green: #60d394;
+	--wolf-gold: #ffca3a;
+	--wolf-ink: #101418;
+	--wolf-panel: #182128;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	color: #d8e2e8;
+	background: var(--wolf-ink);
+}
+
+#top,
+#nav-tree,
+.header,
+.contents,
+div.fragment,
+div.directory,
+table.directory {
+	background-color: var(--wolf-panel);
+}
+
+#projectname,
+h1,
+h2,
+h3,
+.title,
+a,
+.contents a:visited {
+	color: var(--wolf-green);
+}
+
+#projectbrief,
+.subtitle,
+.navpath li.navelem a,
+.navpath li.footer {
+	color: #aebdc5;
+}
+
+a:hover,
+.contents a:hover {
+	color: var(--wolf-gold);
+}
+
+.memtitle,
+.memproto,
+.memdoc {
+	background-image: none;
+	border-color: #34434c;
+}
+
+.memtitle {
+	color: var(--wolf-gold);
+	background-color: #202c34;
+}
+
+.memproto {
+	color: #e7eef2;
+	background-color: #172027;
+}
+
+.memdoc {
+	background-color: #131b20;
+}
+
+code,
+div.fragment {
+	color: #d8e2e8;
+}

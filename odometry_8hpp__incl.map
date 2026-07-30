@@ -1,0 +1,17 @@
+<map id="include/wolflib/odometry.hpp" name="include/wolflib/odometry.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="203,5,413,31"/>
+<area shape="rect" id="Node000002" href="$geometry_8hpp.html" title=" " alt="" coords="158,79,317,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,33,260,71,256,67,294,29"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="341,79,416,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="322,29,360,67,356,71,318,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,91,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,107,93,149,91,144,206,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="115,152,178,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="224,106,174,145,171,141,221,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="202,152,273,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="240,104,240,138,235,138,235,104"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="297,152,375,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="255,102,310,142,307,146,252,106"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="399,152,462,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="269,102,387,145,386,150,267,107"/>
+</map>

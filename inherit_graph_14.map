@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structwolflib_1_1MotionOptions.html" title=" " alt="" coords="5,55,173,80"/>
+<area shape="rect" id="Node000001" href="$structwolflib_1_1MoveToPointOptions.html" title=" " alt="" coords="221,5,428,31"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="163,49,263,28,264,33,164,54"/>
+<area shape="rect" id="Node000002" href="$structwolflib_1_1MoveToPoseOptions.html" title=" " alt="" coords="223,55,427,80"/>
+<area shape="poly" id="edge3_Node000000_Node000002" title=" " alt="" coords="187,65,223,65,223,70,187,70"/>
+<area shape="rect" id="Node000003" href="$structwolflib_1_1TurnOptions.html" title=" " alt="" coords="249,104,400,129"/>
+<area shape="poly" id="edge4_Node000000_Node000003" title=" " alt="" coords="164,80,264,101,263,107,163,85"/>
+</map>

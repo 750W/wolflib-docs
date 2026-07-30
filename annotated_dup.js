@@ -1,0 +1,38 @@
+var annotated_dup =
+[
+    [ "wolflib", "namespacewolflib.html", [
+      [ "Chassis", "classwolflib_1_1Chassis.html", "classwolflib_1_1Chassis" ],
+      [ "ChassisConfig", "structwolflib_1_1ChassisConfig.html", "structwolflib_1_1ChassisConfig" ],
+      [ "ControllerSettings", "structwolflib_1_1ControllerSettings.html", "structwolflib_1_1ControllerSettings" ],
+      [ "DistanceSensorConfig", "structwolflib_1_1DistanceSensorConfig.html", "structwolflib_1_1DistanceSensorConfig" ],
+      [ "DriveCurve", "classwolflib_1_1DriveCurve.html", "classwolflib_1_1DriveCurve" ],
+      [ "Drivetrain", "structwolflib_1_1Drivetrain.html", "structwolflib_1_1Drivetrain" ],
+      [ "ExitCondition", "classwolflib_1_1ExitCondition.html", "classwolflib_1_1ExitCondition" ],
+      [ "ExpoDriveCurve", "classwolflib_1_1ExpoDriveCurve.html", "classwolflib_1_1ExpoDriveCurve" ],
+      [ "FieldConfig", "structwolflib_1_1FieldConfig.html", "structwolflib_1_1FieldConfig" ],
+      [ "FieldView", "classwolflib_1_1FieldView.html", "classwolflib_1_1FieldView" ],
+      [ "FusionConfig", "structwolflib_1_1FusionConfig.html", "structwolflib_1_1FusionConfig" ],
+      [ "MappingInfo", "structwolflib_1_1MappingInfo.html", "structwolflib_1_1MappingInfo" ],
+      [ "MclConfig", "structwolflib_1_1MclConfig.html", "structwolflib_1_1MclConfig" ],
+      [ "MclEstimate", "structwolflib_1_1MclEstimate.html", "structwolflib_1_1MclEstimate" ],
+      [ "MclTuning", "structwolflib_1_1MclTuning.html", "structwolflib_1_1MclTuning" ],
+      [ "MotionOptions", "structwolflib_1_1MotionOptions.html", "structwolflib_1_1MotionOptions" ],
+      [ "MoveToPointOptions", "structwolflib_1_1MoveToPointOptions.html", "structwolflib_1_1MoveToPointOptions" ],
+      [ "MoveToPoseOptions", "structwolflib_1_1MoveToPoseOptions.html", "structwolflib_1_1MoveToPoseOptions" ],
+      [ "OccupancyMap", "classwolflib_1_1OccupancyMap.html", "classwolflib_1_1OccupancyMap" ],
+      [ "OdometryDelta", "structwolflib_1_1OdometryDelta.html", "structwolflib_1_1OdometryDelta" ],
+      [ "OdometryStep", "structwolflib_1_1OdometryStep.html", "structwolflib_1_1OdometryStep" ],
+      [ "OdomSensors", "structwolflib_1_1OdomSensors.html", "structwolflib_1_1OdomSensors" ],
+      [ "Particle", "structwolflib_1_1Particle.html", "structwolflib_1_1Particle" ],
+      [ "ParticleFilter", "classwolflib_1_1ParticleFilter.html", "classwolflib_1_1ParticleFilter" ],
+      [ "PID", "classwolflib_1_1PID.html", "classwolflib_1_1PID" ],
+      [ "Pose", "structwolflib_1_1Pose.html", "structwolflib_1_1Pose" ],
+      [ "RangeObservation", "structwolflib_1_1RangeObservation.html", "structwolflib_1_1RangeObservation" ],
+      [ "Rect", "structwolflib_1_1Rect.html", "structwolflib_1_1Rect" ],
+      [ "RobotGeometry", "structwolflib_1_1RobotGeometry.html", "structwolflib_1_1RobotGeometry" ],
+      [ "Timer", "classwolflib_1_1Timer.html", "classwolflib_1_1Timer" ],
+      [ "TrackingWheel", "classwolflib_1_1TrackingWheel.html", "classwolflib_1_1TrackingWheel" ],
+      [ "TurnOptions", "structwolflib_1_1TurnOptions.html", "structwolflib_1_1TurnOptions" ],
+      [ "WheelDelta", "structwolflib_1_1WheelDelta.html", "structwolflib_1_1WheelDelta" ]
+    ] ]
+];
