@@ -17,6 +17,8 @@
 <script type="text/javascript" src="search/searchdata.js"></script>
 <script type="text/javascript" src="search/search.js"></script>
 <link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="doxygen-awesome.css" rel="stylesheet" type="text/css"/>
+<link href="doxygen-awesome-sidebar-only.css" rel="stylesheet" type="text/css"/>
 <link href="wolflib.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
@@ -98,9 +100,10 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <p>Path assets, pure pursuit, and path following are intentionally not included.</p>
 <h1><a class="anchor" id="autotoc_md1"></a>
 Documentation</h1>
-<p>The API website is generated with Doxygen from <code><a class="el" href="README_8md.html">README.md</a></code>, <code>docs/</code>, and the public headers in <code>include/wolflib</code>. GitHub Actions builds it on every relevant push to <code>main</code> and publishes generated HTML to <a href="https://github.com/750W/wolflib-docs">750W/wolflib-docs</a>. The live site is <a href="https://750w.github.io/wolflib-docs/">750w.github.io/wolflib-docs</a>.</p>
+<p>The API website is generated with Doxygen and the pinned Doxygen Awesome theme from <code><a class="el" href="README_8md.html">README.md</a></code>, <code>docs/</code>, and the public headers in <code>include/wolflib</code>. GitHub Actions builds it on every relevant push to <code>main</code> and publishes generated HTML to <a href="https://github.com/750W/wolflib-docs">750W/wolflib-docs</a>. The live site is <a href="https://750w.github.io/wolflib-docs/">750w.github.io/wolflib-docs</a>.</p>
 <p>Build the same site locally with:</p>
-<div class="fragment"><div class="line">doxygen Doxyfile</div>
+<div class="fragment"><div class="line">git submodule update --init</div>
+<div class="line">doxygen Doxyfile</div>
 </div><!-- fragment --><p>Then open <code>build/docs/html/index.html</code>.</p>
 <h1><a class="anchor" id="autotoc_md2"></a>
 Quick start</h1>
@@ -133,7 +136,7 @@ Pose model</h1>
 <h1><a class="anchor" id="autotoc_md4"></a>
 Mapping limitations</h1>
 <p>Mapping is an odometry-referenced occupancy scan, not loop-closing SLAM. A bad tracking pose produces a bad map. Scan slowly from a known pose and prioritize walls or fixed structures. Use <code>ignoredMapRegions</code> for areas dominated by movable game pieces. Runtime MCL uses an explicit outlier component, but no filter can make a map of constantly changing objects fully reliable.</p>
-<p>See <a class="el" href="md_docs_2GUIDE.html">docs/GUIDE.md</a> for the API, tuning, failure handling, and hardware checklist. </p>
+<p>See <a class="el" href="md_docs_2GUIDE.html">docs/GUIDE.md</a> for the API, tuning, failure handling, and hardware checklist. For autonomous programming examples, motion options, queueing, and cancellation, see <a class="el" href="md_docs_2MOTIONS.html">docs/MOTIONS.md</a>. </p>
 </div></div><!-- PageDoc -->
 </div><!-- contents -->
 </div><!-- doc-content -->

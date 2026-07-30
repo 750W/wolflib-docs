@@ -17,6 +17,8 @@
 <script type="text/javascript" src="search/searchdata.js"></script>
 <script type="text/javascript" src="search/search.js"></script>
 <link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="doxygen-awesome.css" rel="stylesheet" type="text/css"/>
+<link href="doxygen-awesome-sidebar-only.css" rel="stylesheet" type="text/css"/>
 <link href="wolflib.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
@@ -118,6 +120,7 @@ PID and motion tuning</h1>
 </ol>
 <p>All motion methods accept an options structure. A per-motion <code>slew</code> value overrides the controller default; zero disables slew and a negative value inherits it. <code>async=true</code> enqueues and returns; <code>async=false</code> waits for completion. The queue is FIFO. <code>cancelMotion</code> stops only the active command, while <code>cancelAllMotions</code> also clears queued work. <code>waitUntil</code> reports inches for lateral motions and accumulated degrees for turn/swing motions.</p>
 <p><code>moveToPose</code> uses a boomerang/carrot controller, not pure pursuit. <code>lead</code> controls curvature and <code>horizontalDrift</code> changes how aggressively it turns into the target pose.</p>
+<p>See <a class="el" href="md_docs_2MOTIONS.html">Using motions</a> for complete examples, per-motion options, queueing, waits, and cancellation.</p>
 <h1><a class="anchor" id="autotoc_md8"></a>
 Mapping workflow</h1>
 <p>Mapping requires a FAT32 microSD card.</p>

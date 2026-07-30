@@ -7,6 +7,7 @@ var searchData=
   ['enablerampms_4',['enableRampMs',['../structwolflib_1_1FusionConfig.html#af29b6d70eca46da9518bb656e35ffbc0',1,'wolflib::FusionConfig']]],
   ['error_5',['Error',['../namespacewolflib.html#a7135a871483896c514bb7cd8588fb1b1a902b0d55fddef6f8d651fe1035b7d4bd',1,'wolflib']]],
   ['estimate_6',['estimate',['../classwolflib_1_1ParticleFilter.html#a2563ef7fba9661b350da26e967dd72f2',1,'wolflib::ParticleFilter']]],
-  ['exitcondition_7',['exitcondition',['../classwolflib_1_1ExitCondition.html',1,'wolflib::ExitCondition'],['../classwolflib_1_1ExitCondition.html#ac08002bee9f55479b3030464ea9363a8',1,'wolflib::ExitCondition::ExitCondition()']]],
-  ['expodrivecurve_8',['expodrivecurve',['../classwolflib_1_1ExpoDriveCurve.html',1,'wolflib::ExpoDriveCurve'],['../classwolflib_1_1ExpoDriveCurve.html#a8c209ac8d71f5ebca58a4592e21440f3',1,'wolflib::ExpoDriveCurve::ExpoDriveCurve()']]]
+  ['example_7',['Complete autonomous example',['../md_docs_2MOTIONS.html#autotoc_md26',1,'']]],
+  ['exitcondition_8',['exitcondition',['../classwolflib_1_1ExitCondition.html',1,'wolflib::ExitCondition'],['../classwolflib_1_1ExitCondition.html#ac08002bee9f55479b3030464ea9363a8',1,'wolflib::ExitCondition::ExitCondition()']]],
+  ['expodrivecurve_9',['expodrivecurve',['../classwolflib_1_1ExpoDriveCurve.html',1,'wolflib::ExpoDriveCurve'],['../classwolflib_1_1ExpoDriveCurve.html#a8c209ac8d71f5ebca58a4592e21440f3',1,'wolflib::ExpoDriveCurve::ExpoDriveCurve()']]]
 ];

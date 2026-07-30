@@ -37,6 +37,24 @@ var NAVTREE =
       [ "Failure behavior", "md_docs_2GUIDE.html#autotoc_md10", null ],
       [ "Hardware acceptance", "md_docs_2GUIDE.html#autotoc_md11", null ]
     ] ],
+    [ "Using motions", "md_docs_2MOTIONS.html", [
+      [ "Before the first move", "md_docs_2MOTIONS.html#autotoc_md13", null ],
+      [ "Synchronous and asynchronous calls", "md_docs_2MOTIONS.html#autotoc_md14", null ],
+      [ "Angular motions", "md_docs_2MOTIONS.html#autotoc_md15", [
+        [ "Turn to a heading", "md_docs_2MOTIONS.html#autotoc_md16", null ],
+        [ "Turn to a point", "md_docs_2MOTIONS.html#autotoc_md17", null ],
+        [ "Swing turns", "md_docs_2MOTIONS.html#autotoc_md18", null ]
+      ] ],
+      [ "Lateral motions", "md_docs_2MOTIONS.html#autotoc_md19", [
+        [ "Move to a point", "md_docs_2MOTIONS.html#autotoc_md20", null ],
+        [ "Move to a pose", "md_docs_2MOTIONS.html#autotoc_md21", null ]
+      ] ],
+      [ "Motion options", "md_docs_2MOTIONS.html#autotoc_md22", null ],
+      [ "Chaining motions", "md_docs_2MOTIONS.html#autotoc_md23", null ],
+      [ "Waiting for progress", "md_docs_2MOTIONS.html#autotoc_md24", null ],
+      [ "Cancellation", "md_docs_2MOTIONS.html#autotoc_md25", null ],
+      [ "Complete autonomous example", "md_docs_2MOTIONS.html#autotoc_md26", null ]
+    ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -66,7 +84,7 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "dir_bc681d0010571a71c6861d8fcabf4290.html",
-"structwolflib_1_1MclEstimate.html#a607441843a625b48fcde1c21b3265b97"
+"structwolflib_1_1MclConfig.html#a5c76f8fce06c8cef9e58b3645fb255cf"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

@@ -1,73 +1,67 @@
-:root {
-	--wolf-green: #60d394;
-	--wolf-gold: #ffca3a;
-	--wolf-ink: #101418;
-	--wolf-panel: #182128;
-}
-
 html {
+	--primary-color: #16865f;
+	--primary-dark-color: #0f6648;
+	--primary-light-color: #d8f4e8;
+	--on-primary-color: #ffffff;
+	--page-background-color: #fcfdfd;
+	--page-foreground-color: #182420;
+	--page-secondary-foreground-color: #61706a;
+	--separator-color: #dce7e2;
+	--side-nav-background: #f3f8f6;
+	--code-background: #f0f5f3;
+	--fragment-background: #f5f8f7;
+	--fragment-foreground: #23332d;
+	--tablehead-background: #eaf3ef;
+	--blockquote-background: #f0f7f4;
+	--blockquote-foreground: #52635c;
+	--content-maxwidth: 1120px;
+	--border-radius-large: 14px;
+	--border-radius-medium: 10px;
+	--border-radius-small: 7px;
+	--box-shadow: 0 8px 30px rgba(24, 71, 54, 0.08);
 	scroll-behavior: smooth;
 }
 
-body {
-	color: #d8e2e8;
-	background: var(--wolf-ink);
+@media (prefers-color-scheme: dark) {
+	html:not(.light-mode) {
+		--primary-color: #57d5a3;
+		--primary-dark-color: #9be8c9;
+		--primary-light-color: #174a38;
+		--page-background-color: #111714;
+		--page-foreground-color: #dce8e3;
+		--page-secondary-foreground-color: #91a49c;
+		--separator-color: #2b3933;
+		--side-nav-background: #18211d;
+		--code-background: #1c2823;
+		--fragment-background: #17211d;
+		--fragment-foreground: #dce8e3;
+		--tablehead-background: #1c2823;
+		--blockquote-background: #18241f;
+		--blockquote-foreground: #a2b5ad;
+		--box-shadow: 0 10px 32px rgba(0, 0, 0, 0.28);
+	}
 }
 
-#top,
-#nav-tree,
-.header,
-.contents,
-div.fragment,
-div.directory,
-table.directory {
-	background-color: var(--wolf-panel);
+/*
+ * The sidebar-only theme already handles the responsive navigation. These
+ * small project-specific refinements keep long API names and examples easy
+ * to scan without fighting upstream layout rules.
+ */
+#projectname {
+	font-weight: 750;
+	letter-spacing: -0.025em;
 }
 
-#projectname,
-h1,
-h2,
-h3,
-.title,
-a,
-.contents a:visited {
-	color: var(--wolf-green);
+.contents h1,
+.contents h2,
+.contents h3 {
+	letter-spacing: -0.018em;
 }
 
-#projectbrief,
-.subtitle,
-.navpath li.navelem a,
-.navpath li.footer {
-	color: #aebdc5;
-}
-
-a:hover,
-.contents a:hover {
-	color: var(--wolf-gold);
-}
-
-.memtitle,
-.memproto,
-.memdoc {
-	background-image: none;
-	border-color: #34434c;
-}
-
-.memtitle {
-	color: var(--wolf-gold);
-	background-color: #202c34;
-}
-
-.memproto {
-	color: #e7eef2;
-	background-color: #172027;
-}
-
-.memdoc {
-	background-color: #131b20;
-}
-
-code,
 div.fragment {
-	color: #d8e2e8;
+	border: 1px solid var(--separator-color);
+}
+
+.memitem {
+	box-shadow: 0 3px 14px rgba(24, 71, 54, 0.05);
 }

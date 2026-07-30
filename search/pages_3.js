@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['operation_20guide_0',['Wolflib configuration and operation guide',['../md_docs_2GUIDE.html',1,'']]]
+  ['motions_0',['Using motions',['../md_docs_2MOTIONS.html',1,'']]]
 ];
